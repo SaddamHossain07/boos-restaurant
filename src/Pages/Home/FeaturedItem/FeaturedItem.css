@@ -1,0 +1,4 @@
+.featuredItemBg {
+    background-image: url('../../../assets/home/featured.jpg');
+    background-attachment: fixed;
+}
